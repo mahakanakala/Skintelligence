@@ -1,0 +1,111 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@font-face {
+  font-family: Redaction;
+  src: url("../public/fonts/Redaction-Regular.otf");
+}
+
+@font-face {
+  font-family: Redaction Blur;
+  src: url("../public/fonts/Redaction50-Regular.otf");
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+} 
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body,
+main {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+nav {
+  font-family: Redaction;
+  font-style: italic;
+  padding-left: 1.8em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+nav a {
+  position: relative;
+}
+
+main{
+  width: 100%;
+  margin: 0 auto;
+}
+
+.menu-icon {
+  font-size: 3em;
+  color: black;
+  margin-left: 0.5em;
+  margin-top: 0.5em;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ul li {
+  /* font-family: "Inter", sans-serif; */
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  padding-top: 0.4em;
+}
+
+.navbar {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1;
+}
+
+.navbar a {
+  display: block;
+  white-space: nowrap;
+}
+
+.navContainer {
+  position: relative;
+  display: inline-block;
+}
+
+.footerLink {
+  font-family: "Inter", sans-serif;
+  font-size: 1em;
+  position: fixed;
+  padding: 3em;
+  bottom: 0;
+  left: 0;
+}
+
+
+@media (max-width: 600px) {
+  .footerLink {
+    padding: 2em;
+    position: sticky;
+    font-size: .75em;
+  }
+}

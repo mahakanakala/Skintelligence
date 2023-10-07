@@ -1,0 +1,759 @@
+@font-face {
+  font-family: Redaction;
+  src: url("../public/fonts/Redaction-Regular.otf");
+}
+
+@font-face {
+  font-family: Redaction Blur;
+  src: url("../public/fonts/Redaction50-Regular.otf");
+}
+
+@font-face {
+  font-family: Abode Garamound Pro;
+  src: url("../public/fonts/Adobe\ Garamond\ Pro\ Regular.ttf");
+}
+
+.menuicon {
+  size: 4em;
+  position: relative;
+  margin: auto 0;
+  font-size: 5em;
+  text-align: center;
+  margin: 0.2em;
+}
+
+.topline,
+.bottomline {
+  border: 0.1em solid black;
+  width: 100%;
+  margin: 0;
+}
+
+.arrow {
+  height: 2em;
+  position: relative;
+  font-size: 10em;
+  text-align: center;
+}
+
+.webtitle {
+  font-family: "Redaction";
+  font-size: 6em;
+  position: relative;
+  padding: 2em;
+  margin: 0 auto;
+}
+
+.searchwebtitle {
+  font-family: "Redaction";
+  font-size: 6em;
+  position: relative;
+  margin: auto 0;
+  text-align: center;
+  padding: 1em;
+}
+
+.stats {
+  font-family: "Inter", sans-serif;
+  font-size: 3em;
+}
+
+.hero {
+  display: flex;
+  position: relative;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.toxinsex {
+  font-family: Redaction Blur;
+  text-shadow: 0px 4px 4px rgba(255, 0, 0, 0.375);
+  font-size: 3em;
+  text-align: center;
+}
+
+.herotitle {
+  font-family: Redaction;
+  font-size: 3em;
+  text-align: center;
+  color: white;
+  padding: 9em;
+}
+
+.toxicitylow {
+  width: 100%;
+  text-align: center;
+  padding-top: 6em;
+  padding-bottom: 4em;
+}
+
+.toxicitymod {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 4em;
+}
+
+.toxicityhigh {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 4em;
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.toxin-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.toxin-text {
+  white-space: nowrap;
+  animation: scroll-left 20s linear infinite;
+}
+
+.toxinlowname {
+  font-family: Redaction Blur;
+  text-shadow: 0em 0.3em 0.3em rgba(235, 255, 0, 0.8);
+  font-size: 2em;
+  text-align: center;
+  white-space: nowrap;
+  /* animation: scroll-left 20s linear infinite; */
+}
+
+.toxinmodname {
+  font-family: Redaction Blur;
+  text-shadow: 0em 0.3em 0.3em rgba(255, 138, 0, 0.8);
+  font-size: 2em;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.toxinhighname {
+  font-family: Redaction Blur;
+  text-shadow: 0em 0.3em 0.3em rgba(255, 0, 0, 0.375);
+  font-size: 2em;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.newbox {
+  width: 100%;
+  height: 10em;
+  background: black;
+  margin: 12em;
+  position: relative;
+}
+
+.searcharea {
+  background-color: black;
+  cursor: url("../public/magnifying-glass.svg"), auto;
+  position: relative;
+  top: 0;
+  left: 0;
+  margin: 0 auto;
+  height: 100vh;
+}
+
+.searcharea:hover .wordgrid {
+  opacity: 1;
+}
+
+.wordgrid {
+  position: relative;
+  height: 100vh;
+}
+
+.griditem {
+  text-align: center;
+  font-family: Redaction Blur;
+  font-size: 2em;
+  color: white;
+  position: absolute;
+  display: block;
+}
+
+.searchtext {
+  position: relative;
+  margin: 0 auto;
+  font-size: 1em;
+  box-sizing: border-box;
+  border: 0.2em solid black;
+  border-radius: 2em;
+  width: 13em;
+  height: 3em;
+  font-family: Redaction;
+  padding: 1em;
+}
+.placeholder {
+  font-family: "Inter", sans-serif;
+  padding: 1em;
+}
+
+.aboutPage {
+  padding: 5em;
+}
+
+.aboutTitle {
+  font-family: Redaction;
+  font-size: 6em;
+  position: relative;
+  text-align: center;
+  padding: 1.5em;
+  position: relative;
+  margin: 0 auto;
+}
+
+.classificationTitle {
+  font-family: Redaction;
+  font-size: 2em;
+  padding-top: 0em;
+}
+
+.question {
+  font-family: Redaction;
+  font-size: 3em;
+}
+
+.definition {
+  font-family: "Inter", sans-serif;
+  font-size: 1.5em;
+}
+
+.categoryBox {
+  padding-top: 0.25em;
+  box-sizing: border-box;
+}
+
+.lowTitle,
+.modTitle,
+.highTitle {
+  font-family: Redaction Blur;
+  font-size: 1.5em;
+}
+
+.lowTitle {
+  text-shadow: 0em 0.1em 0.1em rgba(235, 255, 0, 0.8);
+}
+
+.modTitle {
+  text-shadow: 0em 0.1em 0.1em rgba(255, 138, 0, 0.8);
+}
+
+.highTitle {
+  text-shadow: 0em 0.1em 0.1em #9b2226;
+}
+
+.toxinsNames {
+  list-style-type: circle;
+  padding-left: 1em;
+  font-size: 1em;
+  font-family: "Inter", sans-serif;
+}
+
+.suggestionContainer {
+  width: 100%;
+  padding: 0;
+}
+
+.suggestionText {
+  font-size: 2em;
+  font-family: Redaction;
+}
+
+.suggestionContainer {
+  padding: 2em;
+  position: relative;
+}
+
+
+.submitBtn {
+  font-family: Redaction;
+  font-size: 2em;
+  color: none;
+  /* background: linear-gradient((#000 0 0) top /40% 3px no-repeat, 
+  #ccc); */
+  background-color: white;
+  text-align: center;
+  padding: 0.5em;
+  border: none;
+  position: relative;
+}
+
+.suggestionDescription {
+  font-family: "Inter", sans-serif;
+}
+
+.safeSearchContainer {
+  padding: 2em;
+  position: relative;
+  width: 50%;
+  position: relative;
+  padding: 0em;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.safeSubmitBtn {
+  font-family: Redaction;
+  font-size: 2em;
+  color: none;
+  /* background: linear-gradient((#000 0 0) top /40% 3px no-repeat, 
+  #ccc); */
+  background-color: white;
+  text-align: center;
+  border: none;
+  margin-left: 0.4em;
+}
+
+.safeSearchText {
+  position: relative;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+  font-size: 1em;
+  box-sizing: border-box;
+  border: 0.2em solid black;
+  border-radius: 2em;
+  padding: 1em;
+  width: 100%;
+  height: 3em;
+  flex: 1;
+}
+
+.smallWebTitle {
+  font-family: Redaction;
+  font-size: 6em;
+  text-align: right;
+  padding-right: 0.5em;
+}
+
+.safeDisclaimer {
+  font-size: 0.8em;
+  font-style: italic;
+  font-family: "Inter", sans-serif;
+  margin-top: 0.6em;
+  text-align: center;
+}
+
+.headerBox {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  height: 100vh
+}
+
+.statsContainer {
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+
+.landingHeaderBox {
+  height: 100vh;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+
+.circleContainer {
+  padding: 0.5em;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+
+.yellowCircle,
+.orangeCircle,
+.redCircle {
+  height: 3em;
+  width: 3em;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 1em;
+  border: black solid 0.1em;
+  outline-offset: 0.188em black;
+  opacity: 50%;
+}
+
+.yellowCircle:active,
+.orangeCircle:active,
+.redCircle:active {
+  height: 3em;
+  width: 3em;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 1em;
+  border: black solid 0.1em;
+  outline-offset: 0.188em black;
+  opacity: 100%;
+}
+
+.yellowCircle {
+  background-color: #ebff00;
+}
+
+.orangeCircle {
+  background-color: #ff8a00;
+}
+
+.redCircle {
+  background-color: #ff0000;
+}
+
+.categorySection {
+  padding: 5em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.dataVisual {
+  width: 50%;
+  margin: 0 auto;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.visualTitle {
+  font-family: Redaction;
+  font-size: 3em;
+  text-align: center;
+}
+
+.spinnerTitle {
+  font-family: Redaction Blur;
+  font-style: italic;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.hazardName {
+  font-family: Redaction 70;
+  font-size: 3em;
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+.spinnerContainer {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.spinnerImage {
+  width: 100%;
+  object-fit: contain;
+  object-position: center;
+  position: relative;
+}
+
+.spinnerDescription {
+  font-family: "Inter", sans-serif;
+  font-size: 1em;
+  text-align: center;
+  padding: 0.5em;
+}
+
+.arrowsAndBox {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.backArrow,
+.forwardArrow {
+  font-size: 5em;
+  margin: 0 0em;
+}
+
+.dataVisualsSection2 {
+  padding-top: 5em;
+  padding-bottom: 3em;
+  padding-left: 6em;
+}
+
+.learnMoreLink {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 6em;
+  display: table;
+}
+
+.deeperHeader,
+.deeperHeader2,
+.learnMoreText {
+  font-size: 3em;
+}
+
+.deeperHeader,
+.learnMoreText {
+  font-family: Redaction;
+}
+
+.deeperHeader2,
+.learnMoreText2 {
+  font-family: Redaction Blur;
+  font-style: italic;
+}
+
+.graphBox {
+  width: 50%;
+  padding: 1em;
+  box-sizing: border-box;
+  float: left;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.graph {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  border-radius: 10%;
+}
+
+.graphImage {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.graphImage img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.aboutQuestionBox {
+  padding: 2em;
+  box-sizing: border-box;
+}
+
+.aboutQuestion {
+  font-family: Redaction;
+  font-size: 3em;
+}
+
+.suggestionMessage {
+  font-family: "Inter", sans-serif;
+  font-size: 1em;
+  padding-top: 0.2em;
+  padding-bottom: 2em;
+}
+
+.sourceNames {
+  list-style-type: none;
+  font-size: 1.2em;
+  font-family: "Inter", sans-serif;
+}
+
+.sourceLinkDivider {
+  border: none;
+}
+
+.sourceNames a {
+  padding-left: 3.5em;
+  line-height: 3em;
+}
+
+.spinnerGithubIconContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Inter", sans-serif;
+  font-size: 1em;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.wrapperMain {
+  width: 100%;
+  margin: 0 auto;
+  /* border: 0.5em solid blue; */
+}
+
+.scrollContainer {
+  width: 100%;
+}
+
+.arrowContainer {
+  width: 100%;
+  box-sizing: border-box;
+
+}
+
+/* Media queries */
+@media (max-width: 600px) {
+  .webtitle {
+    font-size: 2em;
+    padding: 1em;
+    padding-top: 3em;
+  }
+
+  .arrowContainer{
+  bottom: 0;
+  position: fixed;
+  }
+
+  .arrow {
+    font-size: 3em;
+    padding-top: 1em;
+  }
+
+  .wrapperMain {
+    width: 100%;
+  }
+
+  .arrowsAndBox {
+    width: 100%;
+  }
+
+  .smallWebTitle {
+    font-size: 3em;
+  }
+
+  .hazardName {
+    font-size: 2em;
+  }
+
+  .spinnerDescription {
+    font-size: 0.75em;
+  }
+
+  .spinnerText {
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+  }
+
+  .spinnerTitle {
+    font-size: 1em;
+  }
+
+  .spinnerGithubIconContainer {
+    font-size: 0.75em;
+  }
+
+  .toxinlowname,
+  .toxinmodname,
+  .toxinhighname {
+    font-size: 0.7em;
+  }
+
+  .toxicityhigh,
+  .toxicitylow,
+  .toxicitymod {
+    padding-bottom: 1em;
+  }
+
+  .aboutQuestion {
+    font-size: 1.5em;
+  }
+
+  .aboutPage {
+    padding: 0.1em;
+  }
+
+  .aboutQuestionBox {
+    padding-bottom: 0em;
+  }
+
+  .lowTitle,
+  .modTitle,
+  .highTitle,
+  .definition, 
+  .suggestionText {
+    font-size: 1em;
+  }
+
+  .toxinNames {
+    font-size: 0.5em;
+  }
+
+  .sourceNames,
+  .suggestionDescription {
+    font-size: .8em;
+  }
+  
+  .searchtext {
+    width: 40%;
+  height: 40%;
+  font-size: .5em;
+  }
+
+  .suggestionContainer {
+    padding-bottom: 0em;
+  }
+
+  .suggestionContainer{
+    padding-top: 0em;
+  }
+
+  .searchwebtitle{
+    font-size: 2.5em;
+    padding-bottom: 0.25em;
+  }
+
+  .safeSearchText{
+    font-size: .75em;
+
+  }
+  .safeSearchContainer{
+    width: 80%;
+  }
+
+  .safeDisclaimer{
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .learnMoreLink,
+  .dataVisualsSection2{
+    padding-left: 2em;
+    /* padding-bottom: 0em; */
+  }
+
+  .scrollContainer{
+    padding: 0em;
+}
+  .toxicitylow{
+    padding-top: 2em;
+  }
+
+  .spinnerContainer{
+    padding-top: 1.5em;
+  }
+
+  .deeperHeader,
+  .deeperHeader2{
+    font-size: 2em;
+  }
+
+  .backArrow,
+  .forwardArrow {
+    font-size: 2em;
+  }
+
+  .dataVisual{
+    width: 100%;
+  }
+}
