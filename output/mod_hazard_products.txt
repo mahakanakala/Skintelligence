@@ -1,0 +1,658 @@
+Parfum found at index numbers:
+5 - The Water Cream
+41 - Benefiance WrinkleResist24 Night Cream
+43 - Goodnight Glow Retin-ALT Sleeping Crème
+49 - Beauty Elixir
+59 - The Silk Cream
+64 - Vinosource Moisturizing Sorbet
+71 - Luminous Dewy Skin Night Concentrate
+76 - Seaberry Moisturizing Face Oil
+99 - Renewed Hope in A Jar Refreshing & Refining Moisturizer
+100 - Cold Plasma Sub-D Firming Neck Treatment
+107 - Nurture Me™ Moisturizing Crème
+112 - Invigorating Night Transformation™ Gel
+128 - Wild Rose + Vitamin C Advanced Brightening Sleeping Facial
+149 - Evercalm™ Overnight Recovery Balm
+164 - Benefiance WrinkleResist24 Night Emulsion
+165 - Resveratrol Lift Night Infusion Cream
+175 - Ibuki Refining Moisturizer Enriched
+183 - Immortelle Divine Cream
+189 - Premier Cru Cream
+196 - Bio-Performance Glow Revival Cream
+203 - Truth Revealed™ Brightening Broad Spectrum SPF 15 Moisturizer
+217 - Renewed Hope in A Jar Overnight Recharging & Refining Moisturizer
+227 - Vinosource Intense Moisture Rescue Cream
+229 - Wrinkle Warrior™ 2-in-1 Plumping Moisturizer + Serum
+230 - Hyaluronic Marine Oil-Free Moisture Cushion
+245 - Ibuki Beauty Sleeping Mask
+267 - Premier Cru Rich Cream
+287 - POWER Recharging Night Pressed Serum
+295 - Super Restorative Night Age Spot Correcting Replenishing Cream
+304 - Rose Deep Hydration Facial Toner
+323 - Sugar Face Polish Exfoliator
+329 - Transforming Walnut Scrub
+333 - microdermabrasion age defying exfoliator
+338 - Greek Yoghurt Foaming Cream Cleanser
+344 - Benefiance Extra Creamy Cleansing Foam
+370 - Gentle Foaming Cleanser with Cottonseed
+380 - Toning Lotion with Camomile
+381 - Flawless Skin Face Polish
+389 - Rose Deep Hydration Toner Mini
+400 - Truth™ On the Glow Cleansing Cloths
+401 - One-Step Gentle Exfoliating Cleanser with Orange Extract
+411 - Face the Truth™ Gel Cleanser
+420 - White Lucent Luminizing Infuser
+423 - Radiance Cleansing Foam
+448 - Multi-Miracle Glow Cleansing Balm
+472 - Future Solution LX Extra Rich Cleansing Foam
+482 - Acne Clearing Wash
+495 - A Glowing Regimen Trial Set
+501 - No:Rinse Intensive Pore Minimizing Toner
+520 - Pore Reform™ Skin Smoothing Polish
+524 - Eau Ginseng
+525 - Solid Cleansing Oil
+541 - PRE:EMPT SERIES™ Exfoliating Pore Refiner
+547 - GENIUS Ultimate Anti-Aging Melting Cleanser
+550 - So Nurturing™ Cleansing Cloths
+554 - Wonderfeel™ Double Cleanser
+566 - Rosa Centifolia™ No.1 Purity Cleansing Balm
+570 - Pore Refining Detox Double Cleanse
+577 - Micro Polish Cleanser
+584 - Alpha Beta® Extra Strength Daily Peel
+598 - Vinoperfect Radiance Serum
+600 - Double Serum Complete Age Control Concentrate
+603 - GENIUS Liquid Collagen
+610 - Vinosource S.O.S Thirst Quenching Serum
+621 - Glow Cycle Retin-ALT Power Serum
+634 - White Lucent MicroTargeting Spot Corrector
+637 - Black Tea Age-Delay Firming Serum
+642 - Minus Serum
+646 - Vine[Activ] Vitamin C Anti-Wrinkle Serum
+674 - Resveratrol Lift Firming Serum
+686 - Shaping Facial Lift Total V Contouring Serum
+688 - White Lucent Luminizing Surge
+700 - Power Peel™ Transforming Facial System
+702 - Black Pine 3D Sculpting, Firming & Lifting Face Serum
+732 - PRE:EMPT SERIES™ Skin Perfecting Serum
+739 - Breakout Fighters
+779 - Bio Retinoid Anti-Wrinkle Concentrate Oil
+782 - Lotus Face Treatment Oil
+788 - Vitamin C Ester Brightening Amine Face Lift
+790 - Future Solution LX Intensive Firming Contour Serum
+814 - Concentrated Reconstructing Serum
+816 - Mission Perfection Serum
+823 - Silver Skin Savior Salicylic/Glycolic Acid Treatment
+833 - Lip Sleeping Mask
+834 - Rose Face Mask
+836 - Black Tea Instant Perfecting Mask
+838 - Face Mask
+841 - Australian Pink Clay Porefining Face Mask
+867 - Vitamin C Glow Face Mask
+872 - Face Mask - Pearl - Brightening
+874 - Black Tea Instant Perfecting Mask Mini
+889 - Face Mask - Green Tea - Mattifying
+895 - Crazy for Clay!
+899 - Face Mask - Rose - Moisturizing
+910 - Face Mask - Aloe Vera - Replenishing
+917 - Face Mask - Pineapple - Pore Perfecting
+919 - Face Mask - Coconut - Nourishing
+947 - Pomegranate AHA & Enzymes Resurfacing Mask
+949 - Moisturizing Mask
+952 - Face Mask - Algae - Detoxifying
+953 - Face Mask - Grape - Anti-pollution
+955 - Goddess Clay Mask
+976 - Hydrating Lip Mask
+977 - V-Facial Intensive Wrap
+990 - Midnight Radiance Mask
+993 - Hygge HydraClay™ Detox Mask
+1036 - Bamboo Waterlock Mask
+1039 - InstaMatte™ Oil-Control Mask
+1042 - Wrinkle Warrior® Pink Plumping Mask
+1050 - Egg Cream Mask Pore Tightening
+1070 - SPLASH Absolute Hydration Replenishing Sleeping Pack
+1095 - Benefiance WrinkleResist24 Intensive Eye Contour Cream
+1097 - Banana Bright Eye Crème
+1109 - R.N.A. POWER Anti-Aging Eye Cream
+1118 - Super Restorative Total Eye Concentrate
+1125 - Ultimune Eye Power Infusing Eye Concentrate
+1129 - Future Solution LX Eye and Lip Contour Regenerating Cream
+1152 - Bio-Performance LiftDynamic Eye Treatment
+1158 - Black Pine 3D Sculpting, Firming & Lifting Super Eye Serum
+1167 - Crème Ancienne Supreme Eye Serum
+1201 - Bio Performance Glow Revival Eye Treatment
+1225 - Black Pine 3D Sculpting, Firming & Lifting Eye Cream
+1251 - Enhancing Eye Lift Serum
+1286 - Mission Perfection Eye Broad Spectrum SPF 15
+1338 - Multi-Active Day Cream SPF 20 - All Skin Types
+1376 - CC Red Correct Automatic Perfector Broad Spectrum SPF 25
+1384 - Tarteguard 30 Vegan Sunscreen Lotion Broad Spectrum SPF 30
+1388 - Sugar Sport Treatment Sunscreen SPF 30
+1430 - After Sun Greek Yoghurt Cooling Gel for Face and Body
+1468 - Daily Deflector™ Waterlight Broad Spectrum SPF 50+ PA+++ Anti-Aging Sunscreen
+1470 - Pro Light Self Tan Bronzing Mist
+
+Fragrance found at index numbers:
+0 - Crème de la Mer
+3 - The Moisturizing Soft Cream
+5 - The Water Cream
+9 - Little Miss Miracle Limited-Edition Crème de la Mer
+12 - The True Cream Aqua Bomb
+18 - Rose Deep Hydration Moisturizer
+19 - R.N.A. POWER Face Cream
+20 - Crème de la Mer Mini
+22 - Bio-Performance Advanced Super Revitalizing Cream
+23 - Black Tea Firming Overnight Mask
+24 - The True Cream Moisturizing Bomb
+29 - GenOptics Aura Essence Serum
+30 - Black Tea Kombucha Antioxidant Essence
+31 - Pure One Step Camellia Cleansing Oil
+36 - Water Sleeping Mask
+37 - Water Bank Moisture Cream
+40 - Luminous Dewy Skin Mist
+41 - Benefiance WrinkleResist24 Night Cream
+43 - Goodnight Glow Retin-ALT Sleeping Crème
+45 - Watermelon Glow Sleeping Mask
+47 - Radiance Drops - Rainforest of the Sea™ Collection
+49 - Beauty Elixir
+52 - The Renewal Oil
+59 - The Silk Cream
+60 - C-Rush™ Brightening Gel Crème
+61 - Color Control Cushion Compact Broad Spectrum SPF 50+
+64 - Vinosource Moisturizing Sorbet
+66 - CC Crème High Definition Radiance Face Cream Skin Perfector
+68 - C.E.O. C + E antiOXIDANT Protect + Repair Moisturizer
+71 - Luminous Dewy Skin Night Concentrate
+72 - GLOWSTARTER™ Mega Illuminating Moisturizer
+73 - Revitalizing Supreme Global Anti-Aging Crème
+76 - Seaberry Moisturizing Face Oil
+77 - BB Cushion Hydra Radiance SPF 50
+78 - FUTURE RESPONSE Age Defense Creme
+79 - THIRSTYMUD™ Hydrating Treatment
+84 - Black Tea Corset Cream Firming Moisturizer
+87 - Secret Sauce Clinically Advanced Miraculous Anti-Aging Moisturizer
+88 - Benefiance WrinkleResist24 Day Cream Broad Spectrum SPF 18
+94 - Water Bank Essence
+96 - Watermelon Pink Juice Moisturizer
+99 - Renewed Hope in A Jar Refreshing & Refining Moisturizer
+100 - Cold Plasma Sub-D Firming Neck Treatment
+101 - Rénergie Lift Multi-Action Night
+102 - GENIUS Ultimate Anti-Aging Cream
+107 - Nurture Me™ Moisturizing Crème
+112 - Invigorating Night Transformation™ Gel
+113 - Aqua Bomb Sleeping Mask
+115 - Superfood Air-Whip Hyaluronic Acid Moisture Cream
+120 - Bio-Performance Advanced Super Restoring Cream
+122 - Benefiance WrinkleResist24 Day Emulsion Broad Spectrum SPF 18
+127 - Vitamin C Glow Moisturizer
+128 - Wild Rose + Vitamin C Advanced Brightening Sleeping Facial
+129 - Vitamin Nectar Antioxidant Face Mist
+130 - Peat Miracle Revital Cream
+131 - Superberry Hydrate + Glow Oil
+135 - Photo Finish Primer Water
+137 - Retinol Youth Renewal Night Cream
+146 - Water Bank Hydrating Gel
+149 - Evercalm™ Overnight Recovery Balm
+151 - Counter Balance™ Oil Control Hydrator
+162 - The Moisturizing Soft Lotion
+164 - Benefiance WrinkleResist24 Night Emulsion
+165 - Resveratrol Lift Night Infusion Cream
+167 - Essential-C Day Moisture Broad Spectrum SPF 30 PA+++
+170 - Future Solution LX Total Regenerating Cream
+171 - Multi-Active Night Cream - Normal to Combination Skin
+174 - Ibuki Refining Moisturizer
+175 - Ibuki Refining Moisturizer Enriched
+176 - The Renewal Oil Mini
+177 - Tech Neck Prevention Kit
+178 - The Method: Nourish
+179 - BIENFAIT MULTI-VITAL NIGHT - High Potency Night Moisturizing Cream VITA-NUTRI 8™
+180 - Gold Camellia Beauty Oil
+183 - Immortelle Divine Cream
+184 - Advanced Time Zone Night Age Reversing Line/Wrinkle Crème
+187 - Overnight Restorative Cream
+189 - Premier Cru Cream
+190 - Resveratrol Lift Face Lifting Soft Cream
+196 - Bio-Performance Glow Revival Cream
+197 - Sleeping Mask
+198 - Hungarian Water Essence
+201 - Resilience Lift Firming/Sculpting Face and Neck Creme Broad Spectrum SPF 15, Normal/Combination Skin
+203 - Truth Revealed™ Brightening Broad Spectrum SPF 15 Moisturizer
+208 - Cellumination Cream EX
+209 - BIENFAIT MULTI-VITAL - SPF 30 CREAM - High Potency Vitamin Enriched Daily Moisturizing Cream
+211 - Extra-Firming Neck Anti-Wrinkle Rejuvenating Cream
+212 - MOISTURE BOUND Rejuvenating Crème
+214 - BB Crème au Ginseng
+216 - SUBLIME DEFENSE Ultra Lightweight UV Defense Fluid SPF 50
+217 - Renewed Hope in A Jar Overnight Recharging & Refining Moisturizer
+219 - Anti-Aging Moisturizer SPF 30 PA+++
+223 - Ultimate Miracle Worker Multi-Rejuvenating Cream SPF 30
+224 - Treatment Toner
+226 - Bio-Performance LiftDynamic Cream
+227 - Vinosource Intense Moisture Rescue Cream
+229 - Wrinkle Warrior™ 2-in-1 Plumping Moisturizer + Serum
+230 - Hyaluronic Marine Oil-Free Moisture Cushion
+233 - Nutrient-Charged Water Gel
+236 - MOISTURE BOUND Refreshing Hydra-Gel Oil-Free
+238 - Instant Moisturizer + Cream
+244 - Water Bank Dual Layer Face Oil
+245 - Ibuki Beauty Sleeping Mask
+247 - VOLCASMIC™ Matte Glow Moisturizer
+248 - Rénergie Lift Multi-Action Sunscreen Broad Spectrum SPF 15 For All Skin Types
+256 - High Potency Classics: Face Finishing & Firming Moisturizer
+262 - Ibuki Protective Moisturizer Broad Spectrum SPF 18
+265 - Visionnaire Advanced Multi-Correcting Cream
+267 - Premier Cru Rich Cream
+269 - Hydra Zen Anti-Stress Gel Moisturizer
+278 - Intensive Instant Moisturizer + Cream
+281 - Facial Treatment Oil
+285 - Maracuja Neck Treatment
+286 - DREAMDUO™ Overnight Transforming Treatment
+287 - POWER Recharging Night Pressed Serum
+290 - Firming & Lifting Neck Cream
+291 - White Lucent All Day Brightener Broad Spectrum SPF 23 Moisturizer
+293 - The Moisturizing Matte Lotion
+295 - Super Restorative Night Age Spot Correcting Replenishing Cream
+297 - Face Hero
+303 - Tonique Confort Re-Hydrating Comforting Toner with Acacia Honey
+304 - Rose Deep Hydration Facial Toner
+308 - Bi-Facil Double-Action Eye Makeup Remover
+309 - Cleansing & Exfoliating Wipes
+315 - The Cleansing Foam
+320 - Treatment Enzyme Peel
+323 - Sugar Face Polish Exfoliator
+326 - Superfood Antioxidant Cleanser
+327 - The Clean Truth™ Foaming Cleanser
+329 - Transforming Walnut Scrub
+331 - Calendula Deep Clean Foaming Face Wash
+333 - microdermabrasion age defying exfoliator
+337 - Instant Foaming Cleanser
+338 - Greek Yoghurt Foaming Cream Cleanser
+340 - Moisturizing Toner
+344 - Benefiance Extra Creamy Cleansing Foam
+348 - YOUTHMUD™ Tinglexfoliate Treatment
+350 - Anti-Aging Cleansing Gel
+352 - Clarifying Cleanser
+355 - The Tonic
+357 - EradiKate® Daily Cleanser Acne Treatment
+359 - Bye Bye Makeup™ 3-in-1 Makeup Melting Cleansing Balm
+361 - Treatment Cleansing Foam
+365 - Nutritious Radiant Vitality Energy Lotion
+369 - Multi Cleanser
+370 - Gentle Foaming Cleanser with Cottonseed
+371 - Ibuki Gentle Cleanser
+374 - Micellar Cleansing Water
+379 - Blueberry Bounce Gentle Cleanser
+380 - Toning Lotion with Camomile
+381 - Flawless Skin Face Polish
+382 - Green Tea Real Fresh Foam Cleanser
+383 - FLASHMUD™ Brightening Treatment
+384 - Time Release Acne Cleanser
+389 - Rose Deep Hydration Toner Mini
+393 - Witch Hazel Herbal Extract Toner
+398 - Essential Power Skin Toner for Normal to Dry Skin
+399 - Crème Radiance Gentle Cleansing Creamy-Foam Cleanser
+400 - Truth™ On the Glow Cleansing Cloths
+401 - One-Step Gentle Exfoliating Cleanser with Orange Extract
+405 - The Cleansing Foam Mini
+407 - Deep Cleansing Exfoliator
+409 - SUPERCLEANSE™ Clearing Cream-to-Foam Cleanser
+410 - Essential-C Cleanser
+411 - Face the Truth™ Gel Cleanser
+413 - The Cleansing Gel
+420 - White Lucent Luminizing Infuser
+423 - Radiance Cleansing Foam
+431 - Cleansing & Clarifying Duo
+435 - Gentle Cleansing Milk
+436 - Make-Up Removing Cleansing Oil
+439 - Soy Face Cleansing Milk
+440 - Moisturizing Foam Cleanser
+441 - Seaberry Skin Nutrition Cleansing Oil
+442 - Pureness Deep Cleansing Foam
+444 - Essential Power Skin Toner for Combination to Oily Skin
+446 - Shea Cleansing Oil
+448 - Multi-Miracle Glow Cleansing Balm
+456 - The Method: Polish Blemish Control
+468 - Ibuki Softening Concentrate
+472 - Future Solution LX Extra Rich Cleansing Foam
+473 - Creamy Cleansing Foam Moist
+476 - Oil Control Blotting Paper
+478 - Problem Solution Toner
+482 - Acne Clearing Wash
+484 - OIL OBSESSED™ Total Cleansing Oil
+485 - Bergamot Herbal Extract Toner
+486 - Essential-C Toner
+488 - Renewing Cleansing Cream
+489 - YOUTHCLEANSE™ Daily Exfoliating Cleanser
+494 - Stay Balanced™ Oil Control Cleansing Cloths
+495 - A Glowing Regimen Trial Set
+497 - Wild Rose Exfoliating Cleanser
+499 - Cleansing Gel Oil Enriched
+501 - No:Rinse Intensive Pore Minimizing Toner
+502 - The Cleansing Oil
+503 - Hydrating Toner
+507 - Ibuki Purifying Cleanser
+509 - Pureness Balancing Softener Alcohol-Free
+514 - Multi-Perfecting Detoxifying Exfoliator
+515 - Moment of Truth™ 2-in-1 Polishing Sugar Mask
+520 - Pore Reform™ Skin Smoothing Polish
+522 - One Step Acne Eliminating Pads
+524 - Eau Ginseng
+525 - Solid Cleansing Oil
+526 - Prep-N-Glow™ Cloths
+535 - The Method: Cleanse
+537 - Double Mousse Gentle Cleansing Foam
+540 - Exfoliating Swipeys
+541 - PRE:EMPT SERIES™ Exfoliating Pore Refiner
+542 - POWERMUD™ Dualcleanse Treatment
+545 - The Cleansing Micellar Water
+547 - GENIUS Ultimate Anti-Aging Melting Cleanser
+550 - So Nurturing™ Cleansing Cloths
+554 - Wonderfeel™ Double Cleanser
+556 - Extra Rich Cleansing Milk
+559 - Perfectly Clean Multi-Action Toning Lotion/Refiner
+564 - Umbrian Clay Pore Purifying Face Exfoliator
+566 - Rosa Centifolia™ No.1 Purity Cleansing Balm
+567 - Refreshing Cleanser
+570 - Pore Refining Detox Double Cleanse
+573 - Refreshing Gel Cleanser
+576 - Hydrating Essence Toner
+577 - Micro Polish Cleanser
+582 - Truth Serum®
+583 - Advanced Génifique Youth Activating Serum Duo
+584 - Alpha Beta® Extra Strength Daily Peel
+589 - SUPERMUD® Activated Charcoal Treatment
+591 - Alpha Beta® Universal Daily Peel
+592 - Truth Serum - Starlight Holiday Edition
+598 - Vinoperfect Radiance Serum
+600 - Double Serum Complete Age Control Concentrate
+601 - The Regenerating Serum
+603 - GENIUS Liquid Collagen
+608 - Rapid Age Spot and Pigment Lightening Serum
+610 - Vinosource S.O.S Thirst Quenching Serum
+612 - Perfectionist CP+R Wrinkle Lifting/Firming Serum
+613 - The Revitalizing Hydrating Serum
+619 - The Treatment Lotion
+620 - Max Complexion Correction Pads
+621 - Glow Cycle Retin-ALT Power Serum
+623 - Backlight Priming Filter Face Primer
+624 - GRAVITYMUD™ Firming Treatment
+629 - R.N.A. POWER Anti-Aging Essence Serum
+634 - White Lucent MicroTargeting Spot Corrector
+635 - Rose Deep Hydration Face Serum
+637 - Black Tea Age-Delay Firming Serum
+640 - Invisiblur™ Perfecting Shield Broad Spectrum SPF 30 PA+++
+641 - Bio-Peel Gauze Peeling - Green Tea
+642 - Minus Serum
+643 - Visionnaire Advanced Skin Corrector Serum
+645 - Retinol Youth Renewal Serum
+646 - Vine[Activ] Vitamin C Anti-Wrinkle Serum
+648 - Vitamin C Ester Brightening Serum
+660 - Luminous Deep Hydration Firming Serum
+662 - ELEVATE Advanced Retinol Serum
+669 - Lift Serum Intense with Stem Cell Recovery Complex
+672 - Skin Love Glow Elixir
+674 - Resveratrol Lift Firming Serum
+677 - Active Retinol Renewal Kit
+679 - Advanced Génifique Sensitive Antioxidant Serum
+683 - Revitalixir™ Recovery Serum
+686 - Shaping Facial Lift Total V Contouring Serum
+688 - White Lucent Luminizing Surge
+690 - Red Jelly Pack
+692 - Superfood Firm and Brighten Vitamin C Serum
+693 - +Retinol Vita C Power Serum
+700 - Power Peel™ Transforming Facial System
+702 - Black Pine 3D Sculpting, Firming & Lifting Face Serum
+710 - GENIUS Ultimate Anti-Aging Vitamin C+ Serum
+715 - MOISTURE BOUND Rejuvenating Serum
+717 - Sunless Tan Anti-Aging Face Serum
+723 - Perfect Canvas Skin Finishing Serum
+728 - Outsmart Acne Clarifying Treatment
+730 - Therapeutic Sulfur Mask Acne Treatment Mask
+731 - Enlighten Dark Spot Correcting Night Serum
+732 - PRE:EMPT SERIES™ Skin Perfecting Serum
+734 - FUTURE RESPONSE Age Defense Serum
+737 - Hyaluronic Marine Hydration Booster
+738 - Bio-Performance Glow Revival Serum
+739 - Breakout Fighters
+748 - Essential Fx Acyl-Glutathione Deep Crease Serum
+751 - Advanced Acne & Wrinkle Reducer
+753 - Bio-Performance LiftDynamic Serum
+754 - Acne Body Wash
+760 - Glycolic Peel
+761 - Golden Krocus Ageless Saffron Elixir Serum
+763 - Peat Miracle Revital Serum Concentrate
+765 - SKINLONGEVITY™ Vital Power Infusion Serum
+779 - Bio Retinoid Anti-Wrinkle Concentrate Oil
+782 - Lotus Face Treatment Oil
+785 - Perfectionist Pro Rapid Firm + Lift Treatment
+788 - Vitamin C Ester Brightening Amine Face Lift
+790 - Future Solution LX Intensive Firming Contour Serum
+791 - Advanced Active Radiance® Serum
+797 - White Marble Dual Phase Vitamin C Peel
+798 - Micro-Blur™ Skin Perfector
+799 - Flash Hydro-Boost Instant Plumping Emulsion
+802 - High Potency Classics: Firming Evening Repair
+804 - Hydra Sebum Control Essence
+808 - GENIUS Ultimate Anti-Aging Bi-Phase Peel
+811 - Crème Ancienne® Supreme Face Serum
+812 - EradiKate™ Mask Foam-Activated Acne Treatment
+814 - Concentrated Reconstructing Serum
+816 - Mission Perfection Serum
+823 - Silver Skin Savior Salicylic/Glycolic Acid Treatment
+826 - ELEVATE Advanced Lift Contouring Cream
+830 - Face Mask Magic
+833 - Lip Sleeping Mask
+834 - Rose Face Mask
+836 - Black Tea Instant Perfecting Mask
+838 - Face Mask
+840 - The Lifting and Firming Mask
+848 - Experiential Masks Set
+851 - Pumpkin Enzyme Mask Enzymatic Dermal Resurfacer
+852 - Overnight Miracle Mask
+853 - Watermelon Glow Sleeping Mask Mini
+856 - Black Tea Firming Overnight Mask Mini
+864 - The Ultimate Glow Set
+866 - Hand Mask
+867 - Vitamin C Glow Face Mask
+869 - Hand Mask - Avocado
+871 - The Brilliance Brightening Mask
+872 - Face Mask - Pearl - Brightening
+874 - Black Tea Instant Perfecting Mask Mini
+879 - Luminous Dewy Skin Sheet Mask
+882 - Face Mask - Avocado
+883 - Advanced Génifique Hydrogel Melting Mask
+884 - Purity Made Simple Pore Extractor Mask
+885 - Egg Cream Mask Hydration
+887 - Clay Mask
+888 - Nutritious Vitality8™ Night Creme/Mask
+889 - Face Mask - Green Tea - Mattifying
+890 - Mud Mask Purifying & Mattifying
+893 - Evercalm™ Ultra Comforting Rescue Mask
+894 - Watermelon Glow Jelly Sheet Mask
+895 - Crazy for Clay!
+896 - Luminous Deep Hydration Lifting Mask
+899 - Face Mask - Rose - Moisturizing
+900 - Time Freeze Sleeping Mask
+901 - SUPERMASK - The Golden Mask
+906 - #GLITTERMASK GRAVITYMUD™ Firming Treatment
+908 - Greek Yoghurt Advanced Nourishing Sleeping Facial
+910 - Face Mask - Aloe Vera - Replenishing
+916 - MOISTURE BOUND Sleeping Recovery Mask
+917 - Face Mask - Pineapple - Pore Perfecting
+919 - Face Mask - Coconut - Nourishing
+923 - SUPERMASK - The Charcoal Mask
+927 - Superfood Skin Reset Antioxidant Mask
+931 - Sleeping Mask - Rose
+934 - SUPERMASK - The Silver Mask
+935 - Sleeping Mask - Pearl
+940 - Treatment Lotion Hydrating Mask
+947 - Pomegranate AHA & Enzymes Resurfacing Mask
+949 - Moisturizing Mask
+952 - Face Mask - Algae - Detoxifying
+953 - Face Mask - Grape - Anti-pollution
+955 - Goddess Clay Mask
+957 - The Lifting and Firming Mask Mini
+961 - SUPERMASK - The Mud Mask
+962 - Brightening Infusion Hydrogel Mask
+963 - Deep Cleansing Mask
+966 - Sleeping Mask - Coconut Water
+967 - Face Mask - Algae
+968 - Pore Minimalist Black Charcoal Sheet Mask
+973 - Pore Cleaner Bubble Foam
+974 - Sleeping Mask - Aloe Vera
+976 - Hydrating Lip Mask
+977 - V-Facial Intensive Wrap
+978 - Cocoa Moisture Mask
+980 - Face Mask - Lotus
+986 - Extra-Firming Mask
+989 - Polishing Mask
+990 - Midnight Radiance Mask
+991 - PERFECT Clarifying Pore Corrector Mask
+992 - Gel Mask Hydrating & Quenching
+993 - Hygge HydraClay™ Detox Mask
+997 - Water Pocket Sheet Mask Sleeping Mask (Replenishing)
+999 - TIME RESPONSE Vintage Wash-off Masque
+1007 - MOISTURE BOUND Intensive Serum Masque
+1009 - Pore Extractor Pomegranate Mask
+1012 - Face Mask - Pomegranate
+1013 - NightWear Plus 3-Minute Detox Mask
+1028 - Rose Jelly Mask
+1036 - Bamboo Waterlock Mask
+1040 - After-Sun Mask - Watermelon
+1041 - Whipped Mud Mask Collection
+1042 - Wrinkle Warrior® Pink Plumping Mask
+1043 - Algae Brightening Mask
+1049 - Egg Cream Mask Firming
+1051 - Coconut Ceramide Mask
+1052 - First Aid Transforming Peel Off Mask
+1054 - Ain’t Misbehavin’® Intensive 10% Sulfur Acne Mask & Emergency Spot Treatment
+1056 - Jelly Mask Moisturizing & Energizing
+1061 - The True Tincture Mask - Chamomile
+1063 - Nose Mask - Pineapple
+1064 - Peel-off Mask
+1066 - Water Pocket Sheet Mask Water Bank (Moisturizing)
+1070 - SPLASH Absolute Hydration Replenishing Sleeping Pack
+1073 - SOS Hydra Refreshing Hydration Mask
+1079 - SUPERMASK - The Primer Mask
+1082 - Egg Mousse Pack
+1083 - Self Tan Express Bronzing Face Sheet Mask
+1084 - Mask-Imum Revival Hydra-Plumping Mask
+1088 - PRE:EMPT SERIES™ Refreshing Shower Mask
+1093 - The Eye Concentrate
+1095 - Benefiance WrinkleResist24 Intensive Eye Contour Cream
+1097 - Banana Bright Eye Crème
+1099 - Black Tea Firming and De-Puffing Eye Cream
+1100 - Moisturizing Eye Bomb
+1101 - The Eye Balm Intense
+1104 - Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask
+1117 - Eye Sleeping Mask
+1118 - Super Restorative Total Eye Concentrate
+1120 - The Lifting Eye Serum
+1121 - Eye Mask
+1123 - Advanced Génifique Eye Cream
+1125 - Ultimune Eye Power Infusing Eye Concentrate
+1126 - Water Bank Eye Gel
+1129 - Future Solution LX Eye and Lip Contour Regenerating Cream
+1132 - Cucumber De-Tox™ Hydra-Gel Eye Patches
+1138 - Rénergie Lift Multi-Action Eye
+1141 - MOISTURE BOUND Rejuvenating Eye Treatment Gel
+1143 - Puffy Under-Eye Patches
+1145 - Extra Eye Repair Cream
+1149 - Superfood Peptide Eye Cream
+1152 - Bio-Performance LiftDynamic Eye Treatment
+1153 - Retinol Youth Renewal Eye Serum
+1158 - Black Pine 3D Sculpting, Firming & Lifting Super Eye Serum
+1167 - Crème Ancienne Supreme Eye Serum
+1169 - Extra-Firming Eye Wrinkle Smoothing Cream
+1170 - Peat Miracle Revital Eye Cream
+1172 - Intensive Vitalizing Eye Essence
+1174 - Illuminating Bright Eyes Gels + Silky Mask Beauty Sleep Set
+1181 - TIME RESPONSE Eye Reserve Crème
+1185 - Hello Bright Eyes
+1190 - Multi-Task Eye Serum Mask
+1197 - Ibuki Eye Correcting Cream
+1201 - Bio Performance Glow Revival Eye Treatment
+1225 - Black Pine 3D Sculpting, Firming & Lifting Eye Cream
+1236 - Helix AM/PM Eye Gel
+1247 - Énergie de Vie The Illuminating & Anti-Fatigue Cooling Eye Gel
+1249 - Luminous Deep Hydration Revitalizing Eye Mask
+1251 - Enhancing Eye Lift Serum
+1252 - Essential Energy Eye Definer
+1254 - Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks
+1264 - Ultimate Revival Eye Cream
+1286 - Mission Perfection Eye Broad Spectrum SPF 15
+1292 - Ice-Cold Eye Cream
+1295 - Vitamin C Ester Brightening Eye Serum
+1297 - Lotus Caress to Moisturize Eyes
+1298 - Eye Mask - Grape - Smoothing
+1304 - Urban Environment Oil-Free UV Protector Broad Spectrum SPF 42 For Face
+1308 - Silken Pore Perfecting Sunscreen Broad Spectrum SPF 35 PA+++
+1309 - Ultimate Sun Protection Lotion WetForce SPF 50+
+1319 - Sunscreen Multi-Protection Broad Spectrum SPF 50
+1322 - Radiance Primer Broad Spectrum SPF 35 Sunscreen
+1326 - Ultimate Sun Protection Cream Broad Spectrum SPF 50+ Wetforce For Face
+1327 - MOISTURE BOUND Tinted Treatment Moisturizer SPF 15
+1332 - Renewed Hope In A Jar SPF 30
+1334 - High Potency Classics: Face Finishing & Firming Moisturizer Tint SPF 30
+1336 - FUTURE RESPONSE Age Defense Creme SPF 30
+1337 - Advanced Time Zone SPF 15- Normal/Combination Skin
+1338 - Multi-Active Day Cream SPF 20 - All Skin Types
+1339 - Bienfait Teinté Beauty Balm Sunscreen Broad Spectrum SPF 30
+1340 - Future Solution LX Total Protective Cream Broad Spectrum SPF 20 Sunscreen
+1342 - Sports BB Broad Spectrum SPF 50+ WetForce
+1360 - Super Multi-Corrective Cream Sunscreen Broad Spectrum SPF 30
+1361 - The Broad Spectrum SPF 50 UV Protecting Fluid
+1365 - Ultimate Sun Protection Lotion WetForce SPF 50+ Mini
+1366 - Wetforce Clear Stick UV Protector Broad Spectrum 50+
+1374 - Black Tea Age-Delay Lotion Broad Spectrum Sunscreen SPF 20
+1376 - CC Red Correct Automatic Perfector Broad Spectrum SPF 25
+1384 - Tarteguard 30 Vegan Sunscreen Lotion Broad Spectrum SPF 30
+1388 - Sugar Sport Treatment Sunscreen SPF 30
+1389 - Balancing Moisturizer Broad Spectrum SPF 15 PA++
+1391 - Resurgence® Age–Balancing Moisture Broad Spectrum SPF 30
+1394 - Repairing Tint & Radiance Moisturizer SPF 30
+1402 - Moisturizing Bomb Cushion Compact Broad Spectrum SPF 50
+1405 - DayWear UV Base Advanced Anti-Oxidant & UV Defense SPF 50
+1410 - Face Lotion SPF 30
+1413 - Classic Sport SPF 50 - Fresh Mango
+1414 - DayWear Multi-Protection Anti-Oxidant Sheer Tint Release Moisturizer Broad Spectrum SPF 15 - Normal/ Combination Skin
+1417 - Rènergie Lift Multi-Action Sunscreen Broad Spectrum SPF 15 For Dry Skin
+1418 - Face Protect SPF 50
+1427 - DayWear BB Anti-Oxidant Beauty Benefit Crème SPF 35
+1431 - Resort Collection Sun Protection Cushion SPF 30+
+1438 - Sunscreen Cream High Protection SPF 30
+1445 - Sun Oil 15 SPF
+1447 - Ultimate Miracle Worker Multi-Rejuvenating Lightweight Emulsion SPF 30
+1448 - Resort Collection Sun Protection Mist Broad Spectrum SPF 30 Sunscreen
+1449 - Primer Broad Spectrum Sunscreen SPF 25
+1451 - Sun Lotion 50 SPF
+1453 - Sun Lotion 30 SPF
+1454 - Future Solution LX Total Protective Emulsion Broad Spectrum SPF 20 Sunscreen
+1459 - After-Sun Milk Soothing Body Lotion
+1467 - Yoghurt Nourishing Fluid Veil Face Sunscreen Broad Spectrum SPF 30
+1468 - Daily Deflector™ Waterlight Broad Spectrum SPF 50+ PA+++ Anti-Aging Sunscreen
+1470 - Pro Light Self Tan Bronzing Mist
+
+Triclosan found at index numbers:
+361 - Treatment Cleansing Foam
+
+No Octinoxates found
+Homosalate found at index numbers:
+25 - Charlotte's Magic Cream
+114 - Charlotte's Magic Cream Mini
+144 - A Perfect World™ SPF 40 Age-Defense Moisturizer with White Tea
+161 - Plantscription™ SPF 25 Power Anti-Aging Cream
+373 - Exfoliating Scrub
+603 - GENIUS Liquid Collagen
+1341 - Plantscription™ SPF 25 Power Anti-Aging Oil-Free Cream
+1345 - Defense Refresh Setting Mist Broad Spectrum SPF 50
+1352 - Photo Finish Foundation Primer SPF 20
+1361 - The Broad Spectrum SPF 50 UV Protecting Fluid
+1364 - Ultimate Sun Protection Spray Broad Spectrum SPF 50+ For Face/Body
+1375 - Broad Spectrum SPF 50 Sunscreen Face Cream
+1405 - DayWear UV Base Advanced Anti-Oxidant & UV Defense SPF 50
+1448 - Resort Collection Sun Protection Mist Broad Spectrum SPF 30 Sunscreen
+1452 - Virtu-oil Body Mist Broad Spectrum SPF 30
+1453 - Sun Lotion 30 SPF
+1460 - Perfect Day 2-in-1 Everywear Lotion Broad Spectrum SPF 50 + Mint Condition Lip Shield SPF 30
+
+No Teflon found
