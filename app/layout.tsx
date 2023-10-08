@@ -21,9 +21,9 @@ export default function RootLayout({
             <Link href="/about">
               About
             </Link>
-            {/* <Link href="/safe" >
-              Is your product safe?
-            </Link> */}
+            <Link href="/recommendation" >
+              Give me a Routine!
+            </Link>
             <Link href="/stats" >
               See the stats
             </Link>
