@@ -4,23 +4,27 @@ import axios from 'axios';
 import styles from '../page.module.css';
 
 const SkincareRecommendation: React.FC = () => {
-  const [recommendedProducts, setRecommendedProducts] = useState([]);
+  const [recommendedProduct, setRecommendedProduct] = useState<any>(null);
 
-  useEffect(() => {
-    const fetchRecommendations = async () => {
-      try {
-        const response = await axios.get('/api/recommendation/get');
-        setRecommendedProducts(response.data);
-      } catch (error) {
-        console.error(error);
-      }
-    };
+  const handleRecommendation = async () => {
+    try {
+      const userData = {
+        skintype: 'oily',
+        routine: 'AM',
+        max_price: 50,
+      };
 
-    fetchRecommendations();
-  }, []);
+      const response = await axios.post('/api/recommendation', userData);
+      setRecommendedProduct(response.data);
+    } catch (error) {
+      console.error(error);
+    }
+  };
+
 
   return (
     <div className={styles.quizContainer}>
+      <div className={styles.questionWrapper}>
       <div className={styles.question1Img}>
         <div className={styles.question1}>
           <h1 className={styles.mainQuestion}>Build a routine! <br/> </h1>
@@ -36,48 +40,48 @@ const SkincareRecommendation: React.FC = () => {
             </li>
             <li >
               <button className={styles.formButton} type="button" title="PM" onClick={() => console.log("PM clicked!")} >
-             
             </button>
             <h4 className={styles.quizOptionText}>PM</h4>
             </li>
           </ul>
         </div>
-      </div>
-      <div className={styles.question2}>
-        <div className={styles.question2Img}>
-          <h1  className={styles.mainQuestion} >Skin Type</h1>
         </div>
+      </div>
+      <div className={styles.question2Wrapper}>
+      <div className={styles.question2Img}>
+        <div className={styles.question2}>
+          <h1  className={styles.mainQuestion} >Skin Type</h1>
+          </div>
+          </div>
         <div className={styles.question2Options}>
           <ul className={styles.quizOptions}>
             <li>
-              <button className={styles.formButton} type="button" title="Oily" >
-             
+              <button className={styles.formButton} type="button" title="Oily" >             
             </button>
             <h4 className={styles.quizOptionText}>Oily</h4>
             </li>
             <li>
               <button className={styles.formButton} type="button" title="Normal"  >
-             
             </button>
             <h4 className={styles.quizOptionText}>Normal</h4>
             </li>
             <li>
-              <button className={styles.formButton} type="button" title="Combination" >
-             
+              <button className={styles.formButton} type="button" title="Combination" >             
             </button>
             <h4>Combination</h4>
             </li>
             <li>
-              <button className={styles.formButton} type="button" title="Dry" >
-             
+              <button className={styles.formButton} type="button" title="Dry" >            
             </button>
             <h4 className={styles.quizOptionText}>Dry</h4>
             </li>
           </ul>
         </div>
+        
       </div>
-      <div className={styles.question3}>
-        <div className={styles.question3Img}>
+      <div className={styles.question3Wrapper}>
+      <div className={styles.question3Img}>
+        <div className={styles.question3}>
           <h1  className={styles.mainQuestion}>Price Range</h1>
           <div className={styles.question3Options}>
             <ul className={styles.quizOptions}>
@@ -99,8 +103,9 @@ const SkincareRecommendation: React.FC = () => {
             </ul>
           </div>
         </div>
-      </div>
-      <button className={styles.submitButton} onClick={handleRecommendation}>Submit</button>
+        </div>
+        </div>
+      <button className={styles.submitBtn} onClick={handleRecommendation}>Submit</button>
       {recommendedProduct && (
         <div className={styles.recommendedProduct}>
           <h2>Recommended Product</h2>
