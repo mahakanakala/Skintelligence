@@ -28,6 +28,8 @@
     "firebase": "^8.10.1",
     "kill-port": "^2.0.1",
     "lodash": "^4.17.11",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.0",
     "next": "13.1.6",
     "openai": "^3.3.0",
     "optionator": "^0.8.2",

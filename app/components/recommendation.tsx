@@ -1,24 +1,23 @@
+'use client';
 import React, { useState } from 'react';
 import axios from 'axios';
 import styles from '../page.module.css';
 
 const SkincareRecommendation: React.FC = () => {
-  const [recommendedProduct, setRecommendedProduct] = useState<any>(null);
+  const [recommendedProducts, setRecommendedProducts] = useState([]);
 
-  const handleRecommendation = async () => {
-    try {
-      const userData = {
-        skintype: 'oily',
-        routine: 'AM',
-        max_price: 50,
-      };
+  useEffect(() => {
+    const fetchRecommendations = async () => {
+      try {
+        const response = await axios.get('/api/recommendation/get');
+        setRecommendedProducts(response.data);
+      } catch (error) {
+        console.error(error);
+      }
+    };
 
-      const response = await axios.post('/api/recommendation', userData);
-      setRecommendedProduct(response.data);
-    } catch (error) {
-      console.error(error);
-    }
-  };
+    fetchRecommendations();
+  }, []);
 
   return (
     <div className={styles.quizContainer}>
